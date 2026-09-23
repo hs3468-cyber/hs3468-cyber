@@ -1,87 +1,78 @@
-<!-- ========================================================= -->
-<!--                    HARIPRIYAH PROFILE                     -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1200&color=B57CFF&center=true&vCenter=true&width=850&height=70&lines=Haripriyah+SL+%E2%9C%A8;AI%2FML+Enthusiast+%F0%9F%A4%96;Python+%7C+Data+%7C+Machine+Learning;Building+Ideas+Into+Solutions+%F0%9F%9A%80"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9F7AEA&text=HARIPRIYAH%20SL&height=120&fontSize=52&desc=AI%20%2F%20ML%20%7C%20Developer%20%7C%20Builder&descAlignY=75&descSize=18&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Projects+%F0%9F%92%A1;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+with+Python+%F0%9F%90%8D;Learning+Something+New+Every+Day+%E2%9C%A8"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/AI%2FML-Explorer-B57CFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-Learner-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data-Driven-00C9A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/1st%20Place-EdgeNova-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-9F7AEA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data-00C9A7?style=flat-square"/>
+<img src="https://img.shields.io/badge/EdgeNova-1st%20Place-FFD700?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🧬 `whoami`
+## ✦ HELLO, WORLD!
 
-```text
-> initializing profile...
+```python
+class Haripriyah:
 
-Name        : Haripriyah SL
-Role        : AI/ML Enthusiast
-Focus       : Machine Learning + Data + Software
-Currently   : Learning • Building • Experimenting
-Mindset     : Curiosity → Code → Create
+    role = "AI/ML Enthusiast"
+    currently = "Learning & Building"
 
-> system ready ✓
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Analysis",
+        "Python",
+        "Web Development",
+        "Computer Vision",
+        "Generative AI",
+        "Edge AI"
+    ]
+
+    mindset = "Learn → Build → Improve"
 ```
 
-I'm an aspiring **AI/ML developer** who enjoys learning through
-hands-on projects and exploring how technology can solve
-real-world problems.
+I'm interested in understanding how technology can be turned into
+**useful, practical solutions**.
 
-My current interests include **Artificial Intelligence,
-Machine Learning, Python, Data Analysis, SQL, Web Development,
-Computer Vision, Edge AI and Generative AI**.
-
-> `I don't just want to learn technology — I want to build with it.`
+Most of my learning happens through projects, experiments,
+hackathons and ideathons.
 
 ---
 
-# ✦ What I'm Exploring
+# ◈ CURRENTLY BUILDING
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🤖 Artificial Intelligence
+### 🤖 AI / ML
 
-Exploring intelligent systems, machine learning concepts and
+Learning machine learning fundamentals and exploring
 AI-powered applications.
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 📊 Data & Analytics
+### 📊 DATA
 
-Learning how to work with data, identify patterns and turn
-data into useful insights.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🐍 Python
-
-Using Python as a foundation for data analysis, machine
-learning and application development.
+Exploring data analysis, visualization and
+data-driven decision making.
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🌐 Development
+### 💻 SOFTWARE
 
-Exploring web technologies and learning how frontend,
-backend and AI systems can work together.
+Building projects to strengthen my development
+and problem-solving skills.
 
 </td>
 </tr>
@@ -89,187 +80,147 @@ backend and AI systems can work together.
 
 ---
 
-# 🛠️ My Toolkit
-
-### Programming
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark"/>
-
-</p>
-
-### AI / Data
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-B57CFF?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-00C9A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</p>
-
-### Web & Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,flask,mysql,sqlite&theme=dark"/>
-
-</p>
-
-### Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark"/>
-
-</p>
-
----
-
-# 🚀 Things I've Built
+# ⚡ TECHNOLOGY STACK
 
 <div align="center">
 
-### ♻️ ReSource
+### Languages
 
-`Predictive Circular Resource Intelligence Network`
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark"/>
+
+### AI • Data • Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,flask,mysql,sqlite&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-9F7AEA?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark"/>
 
 </div>
+
+---
+
+# 🚀 PROJECT SPACE
+
+### 01 / ♻️ ReSource
+
+> **Predictive Circular Resource Intelligence Network**
 
 A sustainability-focused platform exploring intelligent
 resource matching, prediction and optimization.
 
-**Exploring:**  
-`AI` `Machine Learning` `Optimization` `Sustainability`
+`AI` `ML` `Optimization` `Sustainability`
 
 ---
 
-<div align="center">
+### 02 / 🧬 ADAPT-AMR
 
-### 🧬 ADAPT-AMR
-
-`Adaptive Antimicrobial Decision & Resistance Trajectory Engine`
-
-</div>
+> **Adaptive Antimicrobial Decision & Resistance Trajectory Engine**
 
 An AI-focused healthcare project exploring antimicrobial
 treatment pathways and resistance trajectories.
 
-**Exploring:**  
-`AI` `Machine Learning` `Healthcare` `AMR`
+`AI` `ML` `Healthcare` `AMR`
 
 ---
 
-<div align="center">
+### 03 / 🎓 College Companion
 
-### 🎓 College Companion
+> **Student Academic Management Platform**
 
-A student-focused platform designed around academic
-management, planning and student utilities.
+A student-focused project bringing academic planning,
+management and student utilities together.
 
-**Exploring:**  
-`Web Development` `Database Systems` `Student Technology`
+`Web Development` `Database` `Student Technology`
 
 ---
 
-<div align="center">
+### 04 / 🎨 Handmade Craft Store
 
-### 🎨 Handmade Craft Store
+> **Handmade Craft Store Management System**
 
-A database-oriented application concept for managing
-products, customers, orders and business operations.
+A database-oriented project for managing products,
+customers, orders and business operations.
 
-**Exploring:**  
 `DBMS` `SQL` `Application Development`
 
 ---
 
-# 🏆 Achievement
+# 🏆 HIGHLIGHTS
 
 <div align="center">
 
-## 🥇 1st Place — EdgeNova Hackathon
+<img src="https://img.shields.io/badge/🥇%201st%20Place-EdgeNova%20Hackathon-FFD700?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/EDGE-NOVA%20HACKATHON-B57CFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RESULT-1st%20PLACE-FFD700?style=for-the-badge"/>
+<br><br>
+
+**EdgeNova Hackathon**
+
+Built and presented a solution as part of the hackathon
+and achieved **1st Place**.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/THALIR'26-Ideathon-9F7AEA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MedVision'26-Ideathon-00C9A7?style=for-the-badge"/>
 
 </div>
 
-Participated in **EdgeNova Hackathon** and achieved **1st Place**
-through collaborative problem solving, development and
-innovation.
-
 ---
 
-# 🌱 Events & Innovation
-
-| Event | Experience |
-|---|---|
-| 🥇 **EdgeNova** | **1st Place — Hackathon** |
-| 🌱 **THALIR'26** | Startup / Ideathon |
-| 🧬 **MedVision'26** | Healthcare AI Ideathon |
-
----
-
-# 🔬 Current Learning Lab
+# 🧠 AREAS I'M EXPLORING
 
 ```text
-                    ┌──────────────────┐
-                    │   ARTIFICIAL     │
-                    │   INTELLIGENCE   │
-                    └────────┬─────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              ↓              ↓              ↓
-        ┌──────────┐   ┌──────────┐   ┌──────────┐
-        │   ML     │   │   DATA   │   │   GEN AI │
-        └────┬─────┘   └────┬─────┘   └────┬─────┘
-             │              │              │
-             └──────────────┼──────────────┘
-                            ↓
-                     ┌──────────────┐
-                     │   PROJECTS   │
-                     └──────┬───────┘
-                            ↓
-                     ┌──────────────┐
-                     │  REAL-WORLD  │
-                     │   SOLUTIONS  │
-                     └──────────────┘
+AI / ML
+  ├── Machine Learning
+  ├── Computer Vision
+  ├── Generative AI
+  └── Edge AI
+
+DATA
+  ├── Data Analysis
+  ├── SQL
+  └── Visualization
+
+DEVELOPMENT
+  ├── Web Development
+  ├── Backend Development
+  └── Database Systems
 ```
 
-### Currently exploring
-
-`Machine Learning` · `Python` · `Data Analysis` · `SQL`
-
-`Computer Vision` · `Generative AI` · `Edge AI` · `Web Development`
-
 ---
 
-# 📊 GitHub Analytics
+# 📈 GITHUB
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hs3468-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B57CFF&icon_color=00C9A7&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hs3468-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA&icon_color=00E5FF&text_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hs3468-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B57CFF&text_color=FFFFFF"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hs3468-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9F7AEA&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
-# 🔥 Coding Streak
+# 🔥 CONSISTENCY
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hs3468-cyber&theme=tokyonight&hide_border=true&background=0D1117&ring=B57CFF&fire=FF6B6B&currStreakLabel=00C9A7"/>
+<img src="https://streak-stats.demolab.com?user=hs3468-cyber&theme=tokyonight&hide_border=true&background=0D1117&ring=9F7AEA&fire=00E5FF&currStreakLabel=9F7AEA"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -279,61 +230,54 @@ innovation.
 
 ---
 
-# 💡 My Development Loop
+# 🌱 LEARNING LOOP
 
 <div align="center">
 
 ```text
-       ┌──────────────┐
-       │    CURIOUS   │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │    LEARN     │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │    BUILD     │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │    TEST      │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │   IMPROVE    │
-       └──────┬───────┘
-              │
-              └──────────────→ ↻
+       ┌─────────┐
+       │ EXPLORE │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │  LEARN  │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │  BUILD  │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │  TEST   │
+       └────┬────┘
+            ↓
+       ┌─────────┐
+       │ IMPROVE │
+       └────┬────┘
+            │
+            └──────────→ 🔄
 ```
 
 </div>
 
 ---
 
-# 📌 What I Want To Build
+# 💫 CURRENT MINDSET
 
-```text
-AI that is useful.
-        ↓
-Software that solves problems.
-        ↓
-Projects that create impact.
-        ↓
-Skills that keep growing.
-```
+<div align="center">
 
-I'm working towards becoming a stronger developer by combining
-**AI/ML knowledge with practical software development**.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=3200&pause=1200&color=9F7AEA&center=true&vCenter=true&width=650&lines=Don't+just+learn+it.+Build+it.;Every+project+teaches+something.;Small+steps.+Better+skills.;Curiosity+drives+the+journey+%E2%9C%A8"/>
+
+</div>
 
 ---
 
-# 🌐 Let's Connect
+# 🔗 FIND ME ONLINE
 
 <div align="center">
 
 <a href="https://github.com/hs3468-cyber">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hari-priyah-sl-58a11a325/">
@@ -350,14 +294,12 @@ I'm working towards becoming a stronger developer by combining
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=B57CFF&center=true&vCenter=true&width=650&lines=Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%9A%80;Keep+Experimenting+%F0%9F%A7%A0;Keep+Growing+%F0%9F%8C%B1"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+%F0%9F%91%8B;Keep+Learning.;Keep+Building.;Keep+Growing.+%F0%9F%9A%80"/>
 
 <br><br>
 
-### `✨ Learn • Build • Experiment • Grow ✨`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
 
 </div>
